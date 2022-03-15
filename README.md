@@ -18,4 +18,4 @@
 
 ## 제2주차(일자리의 구조와 분류)
 
--  [**B섹션**](https://github.com/hxk271/SocResMets/blob/main/Beamer__________W02.pdf)
+-  [**B섹션: 강의안**](https://github.com/hxk271/SocResMets/blob/main/Beamer__________W02.pdf)
