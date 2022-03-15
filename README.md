@@ -16,6 +16,6 @@
 
 <br/>
 
-## 제2주차(일자리의 구조와 분류)
+## 제2주차(일과 직업: 의미와 역사)
 
 -  [**B섹션: 강의안**](https://github.com/hxk271/SocResMets/blob/main/Beamer__________W02.pdf)
