@@ -12,3 +12,10 @@
 <br/>
 
 ## 제1주차(강의 소개)
+
+
+<br/>
+
+## 제2주차(일자리의 구조와 분류)
+
+-  [**B섹션**](https://github.com/hxk271/SocResMets/blob/main/Beamer__________W02.pdf)
