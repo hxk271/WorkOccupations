@@ -18,4 +18,4 @@
 
 ## 제2주차(일과 직업: 의미와 역사)
 
--  [**B섹션: 강의안**](https://github.com/hxk271/SocResMets/blob/main/Beamer__________W02.pdf)
+-  [**B섹션: 강의안**](https://github.com/hxk271/Work-Occupations/blob/main/Beamer__________W02.pdf)
