@@ -37,6 +37,17 @@
 -  [**한국고용직업분류_2018_분류표_연계표**](https://github.com/hxk271/Work-Occupations/blob/main/한국고용직업분류_2018_분류표(최종)_연계표.xlsx)
 
 
+<br/>
+
+## 제5주차(직업구조와 사회계층)
+
+-  [**B섹션: 강의안**](https://github.com/hxk271/Work-Occupations/blob/main/Beamer__________W05.pdf)
+
+
+
+
+
+
 
 
 
