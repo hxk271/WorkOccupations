@@ -42,6 +42,7 @@
 ## 제5주차(직업구조와 사회계층)
 
 -  [**B섹션: 강의안**](https://github.com/hxk271/Work-Occupations/blob/main/Beamer__________W05.pdf)
+-  [읽을거리](https://github.com/hxk271/Work-Occupations/blob/main/읽을거리.zip)
 
 
 
