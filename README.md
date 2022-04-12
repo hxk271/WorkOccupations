@@ -44,7 +44,13 @@
 -  [**B섹션: 강의안**](https://github.com/hxk271/Work-Occupations/blob/main/Beamer__________W05.pdf)
 
 
+<br/>
+
+## 제6주차(진로발달, 직업선택과 직업정보)
+
+-  [**B섹션: 강의안**](https://github.com/hxk271/Work-Occupations/blob/main/Beamer__________W06.pdf)
 
 
+<br/>
 
-
+## 제7주차(중간시험)
