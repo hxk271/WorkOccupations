@@ -54,3 +54,10 @@
 <br/>
 
 ## 제7주차(중간시험)
+
+
+<br/>
+
+## 제8주차(노동시장과 잡매칭)
+
+-  [**B섹션: 강의안**](https://github.com/hxk271/Work-Occupations/blob/main/Beamer__________W08.pdf)
