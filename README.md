@@ -61,3 +61,10 @@
 ## 제8주차(노동시장과 잡매칭)
 
 -  [**B섹션: 강의안**](https://github.com/hxk271/Work-Occupations/blob/main/Beamer__________W08.pdf)
+
+
+<br/>
+
+## 제9주차(직업과 반대급부)
+
+-  [**B섹션: 강의안**](https://github.com/hxk271/Work-Occupations/blob/main/Beamer__________W09.pdf)
