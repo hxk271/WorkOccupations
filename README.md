@@ -75,3 +75,10 @@
 ## 제10주차(직업과 심리)
 
 -  [**B섹션: 강의안**](https://github.com/hxk271/Work-Occupations/blob/main/Beamer__________W10.pdf)
+
+
+<br/>
+
+## 제11주차(다양한 직업 영역)
+
+-  [**B섹션: 강의안**](https://github.com/hxk271/Work-Occupations/blob/main/Beamer__________W11.pdf)
