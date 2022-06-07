@@ -82,3 +82,17 @@
 ## 제11주차(다양한 직업 영역)
 
 -  [**B섹션: 강의안**](https://github.com/hxk271/Work-Occupations/blob/main/Beamer__________W11.pdf)
+
+
+<br/>
+
+## 제12주차(일과 직업의 변화)
+
+-  [**B섹션: 강의안**](https://github.com/hxk271/Work-Occupations/blob/main/Beamer__________W12.pdf)
+
+
+<br/>
+
+## 제13주차(청년층과 고령층 고용)
+
+-  [**B섹션: 강의안**](https://github.com/hxk271/Work-Occupations/blob/main/Beamer__________W13.pdf)
