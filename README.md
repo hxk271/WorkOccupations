@@ -96,3 +96,23 @@
 ## 제13주차(청년층과 고령층 고용)
 
 -  [**B섹션: 강의안**](https://github.com/hxk271/Work-Occupations/blob/main/Beamer__________W13.pdf)
+
+
+
+<br/>
+
+## 제14주차(여성과 직업세계)
+
+-  [**B섹션: 강의안**](https://github.com/hxk271/Work-Occupations/blob/main/Beamer__________W14.pdf)
+
+
+<br/>
+
+## 제15주차(기말시험)
+
+
+<br/>
+
+
+사랑하는 2022년 1학기 일과 직업의 사회학 수강생 여러분, 한 학기동안 수고 많았습니다!
+
